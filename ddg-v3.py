@@ -26,7 +26,7 @@ def ddg(entry0,entry1,entry2,entry3):
                 print('Duck, Duck, Goose!')
                 print('You entered:',str.capitalize(entry0),',',str.capitalize(entry1),',', \
                       str.capitalize(entry2),',',str.capitalize(entry3)) 
-                print('Your have a total of',function_total,'points!')
+                print('You have a total of',function_total,'points!')
                 break
 	
-ddg('Egg','Goose','duck','goose')
+ddg('Egg','Duck','eGG','goOse')
